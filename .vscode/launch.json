@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+   
+        {
+            "type": "java",
+            "name": "Marius Launch !",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.cc.java.App",
+            "projectName": "09c_ArrayList_Cats_a83696fd"
+        }
+    ]
+}
